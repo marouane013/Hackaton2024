@@ -1,0 +1,14 @@
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\bin\Debug\net8.0\TheGateOfQuatralis.exe
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\bin\Debug\net8.0\TheGateOfQuatralis.deps.json
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\bin\Debug\net8.0\TheGateOfQuatralis.runtimeconfig.json
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\bin\Debug\net8.0\TheGateOfQuatralis.dll
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\bin\Debug\net8.0\TheGateOfQuatralis.pdb
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\obj\Debug\net8.0\TheGateOfQuatralis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\obj\Debug\net8.0\TheGateOfQuatralis.AssemblyInfoInputs.cache
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\obj\Debug\net8.0\TheGateOfQuatralis.AssemblyInfo.cs
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\obj\Debug\net8.0\TheGateOfQuatralis.csproj.CoreCompileInputs.cache
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\obj\Debug\net8.0\TheGateOfQuatralis.dll
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\obj\Debug\net8.0\refint\TheGateOfQuatralis.dll
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\obj\Debug\net8.0\TheGateOfQuatralis.pdb
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\obj\Debug\net8.0\TheGateOfQuatralis.genruntimeconfig.cache
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheGateOfQuatralis\obj\Debug\net8.0\ref\TheGateOfQuatralis.dll

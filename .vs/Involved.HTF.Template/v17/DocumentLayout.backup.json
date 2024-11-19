@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{800D486F-13BB-483F-B648-0CC3EE1599C5}|TheWaitingWorld\\TheWaitingWorld.csproj|c:\\users\\mairo\\downloads\\involved.htf.template\\involved.htf.template\\thewaitingworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800D486F-13BB-483F-B648-0CC3EE1599C5}|TheWaitingWorld\\TheWaitingWorld.csproj|solutionrelative:thewaitingworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C6805A-C4CC-4405-873E-BC87F6900A36}|TheGateOfQuatralis\\TheGateOfQuatralis.csproj|c:\\users\\mairo\\downloads\\involved.htf.template\\involved.htf.template\\thegateofquatralis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C6805A-C4CC-4405-873E-BC87F6900A36}|TheGateOfQuatralis\\TheGateOfQuatralis.csproj|solutionrelative:thegateofquatralis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2D32CF-B2F8-4D29-8B60-352DD1698C73}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mairo\\downloads\\involved.htf.template\\involved.htf.template\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2D32CF-B2F8-4D29-8B60-352DD1698C73}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B79F63C-1A37-49D5-A015-3A285B2980B2}|Labyrint\\Labyrint.csproj|c:\\users\\mairo\\downloads\\involved.htf.template\\involved.htf.template\\labyrint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B79F63C-1A37-49D5-A015-3A285B2980B2}|Labyrint\\Labyrint.csproj|solutionrelative:labyrint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}|Involved.HTF.Common\\Involved.HTF.Common.csproj|c:\\users\\mairo\\downloads\\involved.htf.template\\involved.htf.template\\involved.htf.common\\dto\\zyphorathewaitingworlddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}|Involved.HTF.Common\\Involved.HTF.Common.csproj|solutionrelative:involved.htf.common\\dto\\zyphorathewaitingworlddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B9658B-4F96-489B-95C8-85E45F5923EA}|AlienFight\\AlienFight.csproj|c:\\users\\mairo\\downloads\\involved.htf.template\\involved.htf.template\\alienfight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B9658B-4F96-489B-95C8-85E45F5923EA}|AlienFight\\AlienFight.csproj|solutionrelative:alienfight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}|Involved.HTF.Common\\Involved.HTF.Common.csproj|c:\\users\\mairo\\downloads\\involved.htf.template\\involved.htf.template\\involved.htf.common\\dto\\battleofnovacentauridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}|Involved.HTF.Common\\Involved.HTF.Common.csproj|solutionrelative:involved.htf.common\\dto\\battleofnovacentauridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}|Involved.HTF.Common\\Involved.HTF.Common.csproj|c:\\users\\mairo\\downloads\\involved.htf.template\\involved.htf.template\\involved.htf.common\\hackthefutureclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}|Involved.HTF.Common\\Involved.HTF.Common.csproj|solutionrelative:involved.htf.common\\hackthefutureclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\TheGateOfQuatralis\\Program.cs",
+              "RelativeDocumentMoniker": "TheGateOfQuatralis\\Program.cs",
+              "ToolTip": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\TheGateOfQuatralis\\Program.cs",
+              "RelativeToolTip": "TheGateOfQuatralis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:32:08.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\Labyrint\\Program.cs",
+              "RelativeDocumentMoniker": "Labyrint\\Program.cs",
+              "ToolTip": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\Labyrint\\Program.cs",
+              "RelativeToolTip": "Labyrint\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:55:22.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\TheWaitingWorld\\Program.cs",
+              "RelativeDocumentMoniker": "TheWaitingWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\TheWaitingWorld\\Program.cs*",
+              "RelativeToolTip": "TheWaitingWorld\\Program.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:06:29.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\AlienFight\\Program.cs",
+              "RelativeDocumentMoniker": "AlienFight\\Program.cs",
+              "ToolTip": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\AlienFight\\Program.cs",
+              "RelativeToolTip": "AlienFight\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:49:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywA0AAAAQAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:01:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HackTheFutureClient.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\Involved.HTF.Common\\HackTheFutureClient.cs",
+              "RelativeDocumentMoniker": "Involved.HTF.Common\\HackTheFutureClient.cs",
+              "ToolTip": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\Involved.HTF.Common\\HackTheFutureClient.cs",
+              "RelativeToolTip": "Involved.HTF.Common\\HackTheFutureClient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:41:09.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZyphoraTheWaitingWorldDto.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\Involved.HTF.Common\\Dto\\ZyphoraTheWaitingWorldDto.cs",
+              "RelativeDocumentMoniker": "Involved.HTF.Common\\Dto\\ZyphoraTheWaitingWorldDto.cs",
+              "ToolTip": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\Involved.HTF.Common\\Dto\\ZyphoraTheWaitingWorldDto.cs",
+              "RelativeToolTip": "Involved.HTF.Common\\Dto\\ZyphoraTheWaitingWorldDto.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA0wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:40:46.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BattleOfNovaCentauriDto.cs",
+              "DocumentMoniker": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\Involved.HTF.Common\\Dto\\BattleOfNovaCentauriDto.cs",
+              "RelativeDocumentMoniker": "Involved.HTF.Common\\Dto\\BattleOfNovaCentauriDto.cs",
+              "ToolTip": "C:\\Users\\mairo\\Downloads\\Involved.HTF.Template\\Involved.HTF.Template\\Involved.HTF.Common\\Dto\\BattleOfNovaCentauriDto.cs",
+              "RelativeToolTip": "Involved.HTF.Common\\Dto\\BattleOfNovaCentauriDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T08:40:21.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

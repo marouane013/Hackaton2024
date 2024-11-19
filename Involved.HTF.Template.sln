@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Involved.HTF.Common", "Involved.HTF.Common\Involved.HTF.Common.csproj", "{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B1_alfabet", "ConsoleApp1\B1_alfabet.csproj", "{CE2D32CF-B2F8-4D29-8B60-352DD1698C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2_AlienFight", "AlienFight\A2_AlienFight.csproj", "{69B9658B-4F96-489B-95C8-85E45F5923EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B2_TheWaitingWorld", "TheWaitingWorld\B2_TheWaitingWorld.csproj", "{800D486F-13BB-483F-B648-0CC3EE1599C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B3_Labyrint", "Labyrint\B3_Labyrint.csproj", "{4B79F63C-1A37-49D5-A015-3A285B2980B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3_TheGateOfQuatralis", "TheGateOfQuatralis\A3_TheGateOfQuatralis.csproj", "{15C6805A-C4CC-4405-873E-BC87F6900A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CD9EDA-78B1-49B0-9B2F-1F4537E13426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2D32CF-B2F8-4D29-8B60-352DD1698C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2D32CF-B2F8-4D29-8B60-352DD1698C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2D32CF-B2F8-4D29-8B60-352DD1698C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2D32CF-B2F8-4D29-8B60-352DD1698C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B9658B-4F96-489B-95C8-85E45F5923EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B9658B-4F96-489B-95C8-85E45F5923EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B9658B-4F96-489B-95C8-85E45F5923EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B9658B-4F96-489B-95C8-85E45F5923EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800D486F-13BB-483F-B648-0CC3EE1599C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800D486F-13BB-483F-B648-0CC3EE1599C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800D486F-13BB-483F-B648-0CC3EE1599C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800D486F-13BB-483F-B648-0CC3EE1599C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B79F63C-1A37-49D5-A015-3A285B2980B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B79F63C-1A37-49D5-A015-3A285B2980B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B79F63C-1A37-49D5-A015-3A285B2980B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B79F63C-1A37-49D5-A015-3A285B2980B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C6805A-C4CC-4405-873E-BC87F6900A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C6805A-C4CC-4405-873E-BC87F6900A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C6805A-C4CC-4405-873E-BC87F6900A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C6805A-C4CC-4405-873E-BC87F6900A36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF4F225-4042-4F9F-835B-C25C2D92DDBD}
+	EndGlobalSection
+EndGlobal

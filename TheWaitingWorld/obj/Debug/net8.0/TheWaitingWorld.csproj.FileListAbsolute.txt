@@ -1,0 +1,14 @@
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\bin\Debug\net8.0\TheWaitingWorld.exe
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\bin\Debug\net8.0\TheWaitingWorld.deps.json
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\bin\Debug\net8.0\TheWaitingWorld.runtimeconfig.json
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\bin\Debug\net8.0\TheWaitingWorld.dll
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\bin\Debug\net8.0\TheWaitingWorld.pdb
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\obj\Debug\net8.0\TheWaitingWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\obj\Debug\net8.0\TheWaitingWorld.AssemblyInfoInputs.cache
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\obj\Debug\net8.0\TheWaitingWorld.AssemblyInfo.cs
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\obj\Debug\net8.0\TheWaitingWorld.csproj.CoreCompileInputs.cache
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\obj\Debug\net8.0\TheWaitingWorld.dll
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\obj\Debug\net8.0\refint\TheWaitingWorld.dll
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\obj\Debug\net8.0\TheWaitingWorld.pdb
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\obj\Debug\net8.0\TheWaitingWorld.genruntimeconfig.cache
+C:\Users\mairo\Downloads\Involved.HTF.Template\Involved.HTF.Template\TheWaitingWorld\obj\Debug\net8.0\ref\TheWaitingWorld.dll
